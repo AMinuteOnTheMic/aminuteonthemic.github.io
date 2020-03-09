@@ -1,8 +1,0 @@
-baseURL = "https://aminuteonthemic.com/"
-title = "A Minute on the Mic"
-theme = "newsroom"
-author = "Laura Santamaria"
-copyright = "Copyright 2020, A Minute on the Mic; all rights reserved"
-canonifyurls = true
-paginate = 3
-languageCode = "en-us"
