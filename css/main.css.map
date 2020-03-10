@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/laurasantamaria/devrel-repos/AMinuteOnTheMic/a-minute-on-the-mic",
+	"sourceRoot": "/Users/laurasantamaria/devrel-repos/AMinuteOnTheMic",
 	"sources": [
 		"themes/newsroom/assets/scss/main.scss",
 		"themes/newsroom/assets/scss/_fonts.scss",
