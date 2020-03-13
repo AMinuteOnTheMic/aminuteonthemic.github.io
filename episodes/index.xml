@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2020, A Minute on the Mic; all rights reserved</copyright>
-    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aminuteonthemic.com/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 2: Working from Home</title>
+      <link>https://aminuteonthemic.com/episodes/episode2/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aminuteonthemic.com/episodes/episode2/</guid>
+      <description>Here&amp;rsquo;s the second episode of A Minute on the Mic! Our question this round is &amp;ldquo;How do you work from home safely, successfully, and happily?&amp;rdquo;
+Our guests are Aaron Aldrich, Jeremy Meiss, Daniel Maher, Chuck Tomasi, Andrew Barnes, Chris Short, Quintessence Anx, and Dawn Parzych &amp;ndash; with a very special guest!
+  </description>
+    </item>
     
     <item>
       <title>Episode 1: Toil</title>
