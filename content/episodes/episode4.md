@@ -1,7 +1,7 @@
 +++
 title = "Episode 4: DevOps Meaning"
 date = "2020-03-20"
-image = "minutemic4.png"
+image = "minmic4.png"
 +++
 
 Here's the 4rd episode of A Minute on the Mic! Our question this round is "What does DevOps mean to you?"
