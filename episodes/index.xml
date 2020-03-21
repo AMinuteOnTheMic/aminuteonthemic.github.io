@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2020, A Minute on the Mic; all rights reserved</copyright>
-    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aminuteonthemic.com/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 4: DevOps Meaning</title>
+      <link>https://aminuteonthemic.com/episodes/episode4/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aminuteonthemic.com/episodes/episode4/</guid>
+      <description>Here&amp;rsquo;s the 4rd episode of A Minute on the Mic! Our question this round is &amp;ldquo;What does DevOps mean to you?&amp;rdquo;
+Our guests are Leon Stigter, Austin Parker, JJ Asghar, Daniel Maher, Quintessence Anx, and Matt Stratton.
+  </description>
+    </item>
     
     <item>
       <title>Episode 3: Avoiding Shiny Things</title>
