@@ -1,0 +1,32 @@
+name: Hugo Builder
+
+on:
+  push:
+    branches:
+      - src
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.66.0'
+        extended: true
+    - name: Build
+      run: |
+        hugo --minify -d ./output
+    - name: Add nojekyll
+      run: |
+        touch ./output/.nojekyll
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@master
+      if: success()
+      env:
+        ACCESS_TOKEN: ${{ secrets.GH_PAT }}
+        BASE_BRANCH: src # The branch the action should deploy from.
+        BRANCH: master # The branch the action should deploy to.
+        CNAME: aminuteonthemic.com
+        FOLDER: output # The folder the action should deploy.
