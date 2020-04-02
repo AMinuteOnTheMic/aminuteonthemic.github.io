@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2020, A Minute on the Mic; all rights reserved</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aminuteonthemic.com/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode n: Silly Answers Only</title>
+      <link>https://aminuteonthemic.com/episodes/episoden/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aminuteonthemic.com/episodes/episoden/</guid>
+      <description>We thought a Silly Answers Only episode was in order to bring a smile to folks&amp;rsquo; faces. Our question for this &amp;ldquo;round&amp;rdquo; is &amp;ldquo;How would you rebrand DevOps (silly answers only)?&amp;rdquo;
+My guests are Leon Stigter, Dawn Parzych and son, Sasha Rosenbaum, Quintessence Anx, and Matt Stratton.
+  </description>
+    </item>
     
     <item>
       <title>Episode 5: DevOps Implementation</title>
