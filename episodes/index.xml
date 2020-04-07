@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2020, A Minute on the Mic; all rights reserved</copyright>
-    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aminuteonthemic.com/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 7: Learning New Things</title>
+      <link>https://aminuteonthemic.com/episodes/episode7/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aminuteonthemic.com/episodes/episode7/</guid>
+      <description>Here&amp;rsquo;s the 7th episode of A Minute on the Mic! Our question this round is &amp;ldquo;How do you make time for learning new things?&amp;rdquo;
+My guests are Paul Czarkowski, Dawn Parzych, Sasha Rosenbaum, and JJ Asghar.
+  </description>
+    </item>
     
     <item>
       <title>Episode 6: Friday Deploys</title>

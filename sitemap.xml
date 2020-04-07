@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aminuteonthemic.com/episodes/episode6/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <loc>https://aminuteonthemic.com/episodes/episode7/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aminuteonthemic.com/episodes/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aminuteonthemic.com/episodes/episode6/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
   </url>
   
