@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2020, A Minute on the Mic; all rights reserved</copyright>
-    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aminuteonthemic.com/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 8: Such Community</title>
+      <link>https://aminuteonthemic.com/episodes/episode8/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aminuteonthemic.com/episodes/episode8/</guid>
+      <description>Here&amp;rsquo;s the 8th episode of A Minute on the Mic! Our question this round is &amp;ldquo;How do you stay visibly present and active in all of your different community forums and chat channels?&amp;rdquo;
+My guests are Mary Thengvall, Director of Developer Relations at Camunda; Leon Stigter, Cloud Developer Advocate at VMware; Sasha Rosenbaum, Product Manager at GitHub; Aaron Aldrich, Developer Advocate at Taggy-Flaggy (@LaunchDarkly); Quintessence Anx, Technical Evangelist at AppDynamics; Chris Short, Principal Technical Marketing Manager at Red Hat; and PJ Hagerty, Founder/Chief Community Officer at DevRelate.</description>
+    </item>
     
     <item>
       <title>Episode 7: Learning New Things</title>
